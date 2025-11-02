@@ -1,0 +1,65 @@
+{
+  "quizTitle": "KonnichiWow Japanese Language Practice Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'こんにちは' (Konnichiwa) mean?",
+      "options": [
+        "Good morning",
+        "Hello/Good afternoon",
+        "Good night",
+        "Goodbye"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'こんにちは' (Konnichiwa) is a common Japanese greeting used during the daytime, meaning 'Hello' or 'Good afternoon'."
+    },
+    {
+      "id": 2,
+      "question": "Which hiragana character represents the sound 'ka'?",
+      "options": [
+        "き",
+        "か",
+        "く",
+        "け"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The hiragana character 'か' represents the sound 'ka'. き=ki, く=ku, け=ke."
+    },
+    {
+      "id": 3,
+      "question": "How do you say 'Thank you' in Japanese?",
+      "options": [
+        "Sumimasen",
+        "Gomenasai",
+        "Arigatou",
+        "Sayonara"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'ありがとう' (Arigatou) means 'Thank you' in Japanese. Sumimasen=Excuse me, Gomenasai=I'm sorry, Sayonara=Goodbye."
+    },
+    {
+      "id": 4,
+      "question": "What is the Japanese word for 'cat'?",
+      "options": [
+        "Inu",
+        "Tori",
+        "Neko",
+        "Sakana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'ねこ' (Neko) means 'cat'. Inu=dog, Tori=bird, Sakana=fish."
+    },
+    {
+      "id": 5,
+      "question": "Which number does 'san' (三) represent?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'三' (San) is the Japanese number three. 一=ichi (one), 二=ni (two), 四=shi/yon (four)."
+    }
+  ]
+}
